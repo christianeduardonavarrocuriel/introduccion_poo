@@ -8,7 +8,7 @@ class Calculadora:
     #Metodo sumar que recibe 2 parametros: numero1 y numero2
     def sumar(Self, numero1, numero2):
         #Variable que almacena la suma 
-        resultado=numero1+numero2
+        resultado = numero1+numero2
         #Imprime en consola el texto Resultado y el valor del resultado
         print(f"Resultado: {resultado}")
 
